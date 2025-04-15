@@ -1,2 +1,9 @@
 # EV-Market-Analysis-Recommendation-System---Python
- Built a Python based EV recommendation system that suggests vehicles based on budget, battery capacity, and range.  Conducted statistical hypothesis testing to analyze Tesla VS Audi performance trends using historical data. 
+
+EV Data Insights: Analyzed EV data, revealing key insights and actionable recommendations through filtering, grouping, and calculations.
+
+Pattern & Anomaly Detection: Identified EV usage patterns and energy consumption outliers using visualization.
+
+Python EV Recommendation System: Developed a Python system recommending EVs based on user-defined criteria (budget, range, capacity).
+
+Comparative EV Analysis: Compared Tesla and Audi engine power via hypothesis testing to inform strategic decisions.
